@@ -1,0 +1,16 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Projects/Theft4-v0.3.2/windows-tools/build/cmake_install.cmake",
+		"D:/Projects/Theft4-v0.3.2/windows-tools/build/rexglue/cmake_install.cmake",
+		"D:/Projects/Theft4-v0.3.2/windows-tools/build/rexglue/thirdparty/cmake_install.cmake",
+		"D:/Projects/Theft4-v0.3.2/windows-tools/build/rexglue/thirdparty/xxHash/cmake_unofficial/cmake_install.cmake",
+		"D:/Projects/Theft4-v0.3.2/windows-tools/build/rexglue/thirdparty/fmt/cmake_install.cmake",
+		"D:/Projects/Theft4-v0.3.2/windows-tools/build/rexglue/thirdparty/spdlog/cmake_install.cmake",
+		"D:/Projects/Theft4-v0.3.2/windows-tools/build/rexglue/thirdparty/utfcpp/cmake_install.cmake",
+		"D:/Projects/Theft4-v0.3.2/windows-tools/build/rexglue/src/core/cmake_install.cmake",
+		"D:/Projects/Theft4-v0.3.2/windows-tools/build/rexglue/src/filesystem/cmake_install.cmake",
+		"D:/Projects/Theft4-v0.3.2/windows-tools/build/rexglue/src/system/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
