@@ -41,3 +41,7 @@ Run theft4 on your iphone and once it says the game folder has been created, clo
     audio, audio.rpf, common.rpf, default.xex, default.xexp, update, xbox360.rpf
 
 Now run theft4 on your iphone and if you need to prepare texture files, it will take 20-30 minutes for that to finish and then it should run the game! >o<
+
+If you would like to say thanks for my hard work to fix these errors: Buy me a cup of green tea: https://throne.com/ae86skyline
+
+Thank you to https://github.com/OZORDI/LibertyRecomp and to https://github.com/KoreanSeats1/Theft4 for making this game possible!
